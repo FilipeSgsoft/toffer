@@ -1,0 +1,11 @@
+D:\ProjetoTFS\AgenteTI\BLL\bin\Debug\BLL.dll
+D:\ProjetoTFS\AgenteTI\BLL\bin\Debug\BLL.pdb
+D:\ProjetoTFS\AgenteTI\BLL\bin\Debug\DAL.dll
+D:\ProjetoTFS\AgenteTI\BLL\bin\Debug\DTO.dll
+D:\ProjetoTFS\AgenteTI\BLL\bin\Debug\DAL.pdb
+D:\ProjetoTFS\AgenteTI\BLL\bin\Debug\DTO.pdb
+D:\ProjetoTFS\AgenteTI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\ProjetoTFS\AgenteTI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ProjetoTFS\AgenteTI\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ProjetoTFS\AgenteTI\BLL\obj\Debug\BLL.dll
+D:\ProjetoTFS\AgenteTI\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,5 @@
+D:\ProjetoTFS\AgenteTI\DTO\bin\Debug\DTO.dll
+D:\ProjetoTFS\AgenteTI\DTO\bin\Debug\DTO.pdb
+D:\ProjetoTFS\AgenteTI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ProjetoTFS\AgenteTI\DTO\obj\Debug\DTO.dll
+D:\ProjetoTFS\AgenteTI\DTO\obj\Debug\DTO.pdb
